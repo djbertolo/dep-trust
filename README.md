@@ -77,6 +77,8 @@ This project is being developed as part of an independent undergraduate research
     - [ ] Code Entropy Analysis
     - [ ] Comprehensive Reporting
 
+For a detailed, week-by-week log of progress, challenges, and discoveries, please see the [**Research & Development Journal**](JOURNAL.md).
+
 ---
 
 ## Contributing
