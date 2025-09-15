@@ -17,6 +17,8 @@ This document tracks the weekly progress, challenges, and discoveries made durin
 **Challenges & Blockers**
 
 **Discoveries & Ideas:**
+* Possible feature to include a contributors tracking system for each dependency to highlight potential sources of vulnerability (Inspiration from  NPM Supply Chain Attack Sept. 8, 2025)
+
 
 ---
 
