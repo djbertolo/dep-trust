@@ -1,0 +1,31 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+*.obj
+*.lib
+*.dll
+*.so
+*.a
+
+# Debugging and temporary files
+*.log
+*.tmp
+*.swp
+*~
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Build directories (common names)
+build/
+bin/
+obj/
+debug/
+release/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
