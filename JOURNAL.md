@@ -12,9 +12,14 @@ This document tracks the weekly progress, challenges, and discoveries made durin
 3. Create timeline for progress points for project.
 
 **Progress & Key Activities:**
-* Pushed the initial project structure and a complete `README.md` to the GitHub repository.
+- Pushed the initial project structure and a complete `README.md` to the GitHub repository.
+- Created ```JOURNAL.md``` to track weekly progress on project.
+- Created ```makefile_parser.c```.
+- Created tokenization functionality for ```makefile_parser.c```.
 
 **Challenges & Blockers**
+- Struggling getting familiar and recalling with different string functions in C standard library.
+- Difficulty deciding how tokens will be processed.
 
 **Discoveries & Ideas:**
-* Possible feature to include a contributors tracking system for each dependency to highlight potential sources of vulnerability (Inspiration from  NPM Supply Chain Attack Sept. 8, 2025)
+- Possible feature to include a contributors tracking system for each dependency to highlight potential sources of vulnerability (Inspiration from  NPM Supply Chain Attack Sept. 8, 2025)
