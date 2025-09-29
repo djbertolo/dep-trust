@@ -4,7 +4,23 @@ This document tracks the weekly progress, challenges, and discoveries made durin
 
 ---
 
-### Week of: Sep 21 - 27, 2025
+### Week of: Sep 28 - Oct 4, 2025
+
+**Weekly Goals:**
+1. Restructure project files and directories
+2. Implement syntax tree parser based off tokenized `Makefile` content
+3. Research program design patterns and secure/best practices
+
+**Progress & Key Activities:**
+
+
+**Challenges & Blockers**
+
+
+**Discoveries & Ideas**
+
+
+### Week of: Sep 21 - Sep 27, 2025
 
 **Weekly Goals:**
 1. Implement the initial `Makefile` parser in C.
