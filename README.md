@@ -69,7 +69,7 @@ dot -Tpng graph.dot -o dependency_graph.png
 This project is being developed as part of an independent undergraduate research initiative at California State University, San Bernardino, with the intention of submission to the CSUSB Student Research Competition.
 
 - [X] **Phase1: Foundational Framework (Q4 2025)**
-    - [ ] `Makefile` Parser
+    - [X] `Makefile` Parser
     - [ ] Recursive Dependency Graphing
     - [ ] Basic Heuristics (String & Symbol Analysis)
 - [ ] **Phase2: Advanced Heuristic Engine (Q1 2026)**
